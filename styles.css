@@ -1,0 +1,43 @@
+Css
+{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body {
+ font-family: Arial, sans-serif;
+ line-height: 1.6;
+ background-color: rgb(170, 242, 255);
+ color: rgb(0, 0, 0);
+}
+header {
+ background-color: rgb(170, 242, 255);
+ color: rgb(0, 0, 0);
+ padding: 20px 0;
+ text-align: center;
+}
+h1 {
+ margin-bottom: 10px;
+}
+section {
+ margin: 20px;
+ padding: 20px;
+ background-color: rgb(255, 255, 255);
+ border-radius: 5px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.945);
+}
+portfolio .projeto {
+ margin-top: 20px;
+}
+img {
+ width: 100%;
+ max-width: 300px;
+ height: auto;
+ display: block;
+}
+footer {
+ text-align: center;
+ padding: 10px 0;
+ background-color: 333;
+ color: fff;
+}
